@@ -1,7 +1,7 @@
 ### Hi there 👋
 I'm a cybersecurity-armed Roboticist with web dev and ML knowledge who is trying to fly.
 
-[Blog](https://0xsuk.com)  
+[Blog](https://0xsuk.github.io)  
 [Twitter](https://twitter.com/0xsuk)  
 [TryHackMe](https://tryhackme.com/p/baclkygoldy)  
 [HackTheBox](https://app.hackthebox.com/profile/600324) 
